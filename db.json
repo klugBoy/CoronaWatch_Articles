@@ -16,8 +16,6 @@
     }
   ],
   "article01":{
-      "id":"01",
-      "detail": {
         "author": {
           "id":"01",
           "name":"Ali"
@@ -27,7 +25,6 @@
         "description":"I would like to make a description here",
         "contenu":"This is the content I m doing",
         "date":"12/12/2012"
-      }
     }
 
   
